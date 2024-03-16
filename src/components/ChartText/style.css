@@ -1,0 +1,29 @@
+.text-container {
+    padding: 20px 30px 5px 30px;
+    margin: 5px 10px;
+  }
+  .time {
+    text-align: end;
+    font-size: 12px;
+    font-weight: 500;
+    margin: 3px 0;
+    color: rgb(161, 161, 161);
+  }
+  .text {
+    font-size: 15px;
+    font-family: sans-serif;
+    color: rgba(0, 0, 0, 0.808);
+  }
+  .icon {
+    height: 35px;
+    width: 35px;
+    margin: 0 10px;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: white;
+    transform: translateY(-10px);
+  }
+  

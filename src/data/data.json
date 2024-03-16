@@ -1,0 +1,63 @@
+[
+    {
+      "userName": "Mani",
+      "friends": [
+        {
+          "userName": "Durgesh",
+          "chartList": [
+            {
+              "date": "25TH JUN 2021",
+              "convesation": [
+                {
+                  "typer": "Durgesh",
+                  "time": "10:46 am",
+                  "text": "Welcome jerry! Super stoked to have you in our meeting!"
+                },
+                {
+                  "typer": "Durgesh",
+                  "time": "10:47 am",
+                  "text": "I've heard great things this meeting and super happy to be there"
+                },
+                {
+                  "typer": "Mani",
+                  "time": "10:51 am",
+                  "text": "Thanks Everyone !"
+                },
+                {
+                  "typer": "Mani",
+                  "time": "10:52 am",
+                  "text": "What Chapter is everyone on?"
+                },
+                {
+                  "typer": "Durgesh",
+                  "time": "10:59 am",
+                  "text": "Welcome jerry! Super stoked to have you in our meeting!"
+                },
+                {
+                  "typer": "Durgesh",
+                  "time": "11:03 am",
+                  "text": "i am on chapter 11 but started about 3 weeks ago"
+                }
+              ]
+            },
+            {
+              "date": "26TH JUN 2021",
+              "convesation": [
+                {
+                  "typer": "Mani",
+                  "time": "11:15 am",
+                  "text": "Sweet! I am on 3 now but should be on 5 by endo of week"
+                },
+                {
+                  "typer": "Durgesh",
+                  "time": "11:20 am",
+                  "text": "You can also determine whether message was sent by the sender"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
